@@ -1,0 +1,9 @@
+{
+	"name": "greensea/o1-weighted-random",
+	"description": "Weighted random item picker, in O(1) time complexity",
+	"type": "project",
+	"license": "MIT",
+	"minimum-stability": "dev",
+	"require": {}
+}
+
