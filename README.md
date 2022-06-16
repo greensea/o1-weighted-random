@@ -18,7 +18,7 @@ echo $c->pick();
 /// Now the most probable output is E
 ```
 
-You can varify the item is choosen by weight.
+You can verify the item is choosen by weight.
 ```
 $result = ['A' => 0, 'B' => 0, 'C' => 0, 'D' => 0];
 for ($i = 0; $i < 10000; $i++) {
